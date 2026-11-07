@@ -1,17 +1,19 @@
 # TapTone
 
-**A free and lightweight soundboard application for Windows and Linux.**
+**A free, lightweight and cross-platform soundboard application.**
 
-TapTone is an open-source-inspired-in-design but proprietary soundboard project focused on simplicity, performance, and ease of use.
+TapTone is a soundboard application designed to provide a simple, convenient and efficient way to play audio through a virtual microphone.
+
+Built with performance, simplicity and cross-platform compatibility in mind.
 
 ## Features
 
 - Soundboard functionality
 - Audio playback and management
 - Virtual microphone support
-- Cross-platform support
-- Native builds for multiple Linux distributions
-- Windows support
+- Cross-platform architecture
+- Lightweight application design
+- Native builds for multiple platforms
 
 ## Supported Platforms
 
@@ -20,16 +22,30 @@ TapTone is an open-source-inspired-in-design but proprietary soundboard project 
 - Arch Linux
 - Fedora
 
+## Technology
+
+TapTone is primarily developed using Rust, with additional technologies used for platform-specific audio functionality.
+
+## Installation
+
+Download the appropriate build for your operating system from the [Releases](../../releases) section.
+
 ## License
 
-TapTone is proprietary software. All rights reserved.
+TapTone is distributed under the **TapTone Custom License (TCL-1.0)**.
 
-You may not copy, modify, distribute, sublicense, or create derivative works based on this software without prior written permission from the copyright holder.
+The source code is publicly available for viewing, educational purposes and research.
 
-See [LICENSE](LICENSE) for details.
+Copying, reusing the source code in other projects, creating derivative works, or redistributing the software requires prior written permission from the copyright holder.
+
+See the [LICENSE](LICENSE) file for the complete license terms.
 
 ## Copyright
 
-Copyright © 2026 Alan.
+Copyright © 2026 **kolokolbobo**.
 
 All rights reserved.
+
+---
+
+*TapTone — Your sounds, your way.*
