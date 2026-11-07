@@ -1,8 +1,61 @@
-Copyright (c) 2026 Alan
+# TapTone Custom License (TCL-1.0)
 
-All Rights Reserved.
+**Copyright (c) 2026 Alan. All Rights Reserved.**
 
-No permission is granted to copy, modify,
-distribute, sublicense, or create derivative
-works based on this software without
-prior written permission from the copyright owner.
+## 1. Ownership
+
+TapTone and its original source code, architecture, documentation, graphical assets, and other original materials are protected by applicable copyright laws.
+
+All rights to the original work belong to its respective copyright holder.
+
+## 2. Permissions
+
+Users are permitted to:
+
+- Access and view the publicly available source code.
+- Study the source code for educational and research purposes.
+- Analyze the architecture and implementation of the software.
+- Reference the project in discussions, reviews, and educational materials.
+
+These permissions do not grant the right to reuse the source code in other projects.
+
+## 3. Restrictions
+
+Without prior written permission from the copyright holder, users are NOT permitted to:
+
+- Copy or reuse the source code, in whole or in substantial part, in other projects.
+- Use TapTone as a codebase, foundation, or starting point for another software product.
+- Create or distribute derivative works based on TapTone.
+- Redistribute modified or unmodified versions of the software.
+- Sell, sublicense, or commercially exploit the software or its source code.
+- Remove or alter copyright notices and attribution information.
+
+## 4. Independent Implementations
+
+This license does not prohibit independently developed software that provides similar functionality, provided that such software does not copy or reuse protected source code, assets, or other copyrighted materials from TapTone.
+
+## 5. Contributions
+
+Unless otherwise agreed in writing, contributions submitted to the official TapTone repository must be accompanied by sufficient rights for the project copyright holder to use and distribute those contributions under this license.
+
+## 6. No Warranty
+
+TapTone is provided "AS IS", without warranties of any kind, express or implied, to the maximum extent permitted by applicable law.
+
+## 7. Termination
+
+Any rights granted under this license terminate automatically upon violation of its terms, subject to applicable law.
+
+## 8. Permission Requests
+
+For permissions not expressly granted by this license, contact the copyright holder through the official TapTone GitHub repository.
+
+## 9. Governing Law
+
+This license shall be interpreted in accordance with applicable copyright laws and other applicable legislation.
+
+---
+
+**TapTone Custom License — TCL-1.0**
+
+Copyright (c) 2026 Alan. All Rights Reserved.
