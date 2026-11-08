@@ -49,3 +49,11 @@ All rights reserved.
 ---
 
 *TapTone — Your sounds, your way.*
+
+## Audio Requirements
+
+TapTone requires a compatible virtual audio device to provide its core audio routing functionality.
+
+TapTone does not bundle or distribute third-party virtual audio drivers. Users are free to choose and install any compatible virtual audio solution.
+
+Third-party audio drivers and software remain the property of their respective authors and are subject to their own licenses and terms of use.
